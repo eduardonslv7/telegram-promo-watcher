@@ -1,0 +1,7 @@
+{
+  "api_id": "SUA_API_ID",
+  "api_hash": "SEU_API_HASH",
+  "discord_webhook": "https://discord.com/api/webhooks/SEU_WEBHOOK",
+  "keywords": ["iphone", "ps5", "galaxy", "xiaomi"],
+  "channels": ["@canalDePromocoes1", "@canalDePromocoes2"]
+}
